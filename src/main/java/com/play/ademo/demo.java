@@ -12,6 +12,7 @@ public class demo {
         System.out.println((a == e));
         System.out.println("second commit");
         System.out.println("github commit");
+        System.out.println("github pull");
     }
 
 }
